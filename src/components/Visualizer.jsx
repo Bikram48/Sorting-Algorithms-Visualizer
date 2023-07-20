@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 
 export default function Visualizer({ arr }) {
   const render = arr.map((num) => {
